@@ -33,13 +33,11 @@ Welcome to the Central Park Zoo! Help us design a new system using Swift for man
 - Use a `switch` statement to send the appropriate message based on the animal's status
 - Call the `alertVisitors()` method to send the alert messages
 
-## Steps:
+# STEPS BELOW:
 
-### before starting:
+## before starting: Quick Data Reference
 
-- Look at data from <a target="_blank" href="https://www.centralparkzoo.com/exhibits">Animal Exhibitions at the Central Park Zoo</a> for reference.
-
-# Central Park Zoo Data Quick Reference
+### Central Park Zoo
 
 Location: New York City, NY
 
@@ -47,11 +45,11 @@ Location: New York City, NY
 
 | Exhibit              | Location                    | Number of Animals | On Display | Behind the Scenes | Off-Exhibit |
 | -------------------- | --------------------------- | ----------------- | ---------- | ----------------- | ----------- |
-| Tisch Children's Zoo | Eastern side of the zoo     | 20                | 20         | 0                 | 0           |
-| African Plains       | Western side of the zoo     | 20                | 20         | 0                 | 0           |
-| Arctic Tundra        | Northern section of the zoo | 20                | 20         | 0                 | 0           |
-| Rainforest           | Southern section of the zoo | 20                | 20         | 0                 | 0           |
-| Discovery Center     | Center of the zoo           | 0                 | 0          | 0                 | 0           |
+| Tisch Children's Zoo | Eastern side of the zoo     | 20                | 14         | 3                 | 3           |
+| African Plains       | Western side of the zoo     | 20                | 16         | 2                 | 2           |
+| Arctic Tundra        | Northern section of the zoo | 20                | 18         | 2                 | 0           |
+| Rainforest           | Southern section of the zoo | 20                | 15         | 4                 | 1           |
+| Discovery Center     | Center of the zoo           | 1                 | 0          | 0                 | 0           |
 
 ## I. Data Structures
 
